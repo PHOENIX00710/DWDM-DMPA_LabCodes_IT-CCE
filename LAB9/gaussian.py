@@ -133,7 +133,12 @@ Hot
 Normal
 Weak
 yes
- 
+Rain
+Mild
+High
+Strong
+no
+
 I/0: (Manually enter each value for I/O)
  
 Rain
